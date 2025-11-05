@@ -36,7 +36,7 @@ Un outil graphique Python permettant de personnaliser le fichier `startnet.cmd` 
 
 ### Étapes :
 
-1. **Créer un environnement virtuel (optionnel mais recommandé) :**
+1. **Créer un environnement virtuel (optionnel mais fortement recommandé) :**
 
    ```bash
    python -m venv venv
@@ -76,3 +76,4 @@ Le mot de passe saisi est utilisé uniquement pour créer la commande `net use`.
 ## 🧑‍💻 Auteur
 
 **Rinor Januzi — Infoneo**
+
